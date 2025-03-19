@@ -142,9 +142,17 @@ header{
   position:relative;
   }
 
+  .skills li{
+    padding:5px;
+  }
+
   .employment{
     width: 75%;
   position:relative;
+  }
+
+  .employment li{
+    padding:5px;
   }
 
   .education{
@@ -152,7 +160,15 @@ header{
   position:relative;
   }
 
+  .education li{
+    padding:5px;
+  }
+
 .technical{
     width: 75%;
   position:relative;
+}
+
+.technical li{
+  padding:5px;
 }
